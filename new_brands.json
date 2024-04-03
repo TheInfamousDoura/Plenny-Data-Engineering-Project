@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "660d9ff4389109b90a9b1d0c",
+    "brandName": "one-to-one",
+    "yearFounded": 2018,
+    "headquarters": "North Kelleyton",
+    "numberOfLocations": 36,
+    "createdAt": "2024-04-03T18:29:08.133Z",
+    "updatedAt": "2024-04-03T18:29:08.133Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d0e",
+    "brandName": "vertical",
+    "yearFounded": 1730,
+    "headquarters": "Fort Stephon",
+    "numberOfLocations": 34,
+    "createdAt": "2024-04-03T18:29:08.158Z",
+    "updatedAt": "2024-04-03T18:29:08.158Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d10",
+    "brandName": "clicks-and-mortar",
+    "yearFounded": 1890,
+    "headquarters": "West Gilbert",
+    "numberOfLocations": 68,
+    "createdAt": "2024-04-03T18:29:08.160Z",
+    "updatedAt": "2024-04-03T18:29:08.160Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d12",
+    "brandName": "viral",
+    "yearFounded": 1796,
+    "headquarters": "Freedaland",
+    "numberOfLocations": 19,
+    "createdAt": "2024-04-03T18:29:08.162Z",
+    "updatedAt": "2024-04-03T18:29:08.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d14",
+    "brandName": "synergistic",
+    "yearFounded": 1676,
+    "headquarters": "Lake Devanfort",
+    "numberOfLocations": 5,
+    "createdAt": "2024-04-03T18:29:08.164Z",
+    "updatedAt": "2024-04-03T18:29:08.164Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d16",
+    "brandName": "B2C",
+    "yearFounded": 1607,
+    "headquarters": "Santinaberg",
+    "numberOfLocations": 67,
+    "createdAt": "2024-04-03T18:29:08.165Z",
+    "updatedAt": "2024-04-03T18:29:08.165Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d18",
+    "brandName": "transparent",
+    "yearFounded": 1976,
+    "headquarters": "New Braunfels",
+    "numberOfLocations": 16,
+    "createdAt": "2024-04-03T18:29:08.167Z",
+    "updatedAt": "2024-04-03T18:29:08.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d1a",
+    "brandName": "intuitive",
+    "yearFounded": 1990,
+    "headquarters": "East Jordane",
+    "numberOfLocations": 40,
+    "createdAt": "2024-04-03T18:29:08.168Z",
+    "updatedAt": "2024-04-03T18:29:08.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d1c",
+    "brandName": "collaborative",
+    "yearFounded": 1774,
+    "headquarters": "East Lucio",
+    "numberOfLocations": 51,
+    "createdAt": "2024-04-03T18:29:08.170Z",
+    "updatedAt": "2024-04-03T18:29:08.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "660d9ff4389109b90a9b1d1e",
+    "brandName": "leading-edge",
+    "yearFounded": 1886,
+    "headquarters": "Knoxville",
+    "numberOfLocations": 33,
+    "createdAt": "2024-04-03T18:29:08.171Z",
+    "updatedAt": "2024-04-03T18:29:08.171Z",
+    "__v": 0
+  }
+]
